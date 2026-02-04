@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 "I’m an Agentic AI Developer obsessed with building autonomous systems that can plan, reason, and act.<br> My tech stack revolves around Python, where I orchestrate multi-agent workflows using CrewAI, LangGraph, and AutoGen. <br>I love diving deep into the infrastructure of AI building custom MCP servers and SDKs to help LLMs genuinely interact with the world.<br> Currently, my focus is on mastering agent orchestration to deliver scalable, production-ready AI solutions.<br>I am dedicated to advancing agentic AI through robust backend architecture and intelligent automation.<br><br><br><br>Technical Arsenal - <br><br> Agentic AI & Orchestration - <br>LangChain , LangGraph , CrewAI , AutoGen , Multi-Agent Orchestration ,  RAG , MCP (Model Context Protocol),  Memory Systems, Tool Calling.<br><br>Core Development - <br>Python , SQL , FastAPI , Flask , Docker , Git , GitHub.<br><br> AI Models & APIs -<br>OpenAI API , Groq API ,  Hugging Face , Gemini Vision , Transformers , PyTorch , NLP.<br>
 
 
